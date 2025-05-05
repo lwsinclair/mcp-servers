@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devassistantai-github-badge.png)](https://mseep.ai/app/devassistantai-github)
+
 # Model Context Protocol (MCP) Servers
  smithery/config-ywl5
 [![smithery badge](https://smithery.ai/badge/@GrandMasterK414/mcp-servers)](https://smithery.ai/server/@GrandMasterK414/mcp-servers)
