@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/grandmasterk414-all-in-onebasictools-badge.png)](https://mseep.ai/app/grandmasterk414-all-in-onebasictools)
+
 # Model Context Protocol (MCP) Servers
  smithery/config-ywl5
 [![smithery badge](https://smithery.ai/badge/@GrandMasterK414/mcp-servers)](https://smithery.ai/server/@GrandMasterK414/mcp-servers)
